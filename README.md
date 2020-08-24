@@ -4,4 +4,4 @@ This is a mobile application built using react native and expo. This application
 
 This application is deployed in expo app only so if you want to look at this you gonna have to login into expo.
 
-[check ou the app](https://expo.io/@kheman9862/great-places)
+[check out the app](https://expo.io/@kheman9862/great-places)
